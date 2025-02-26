@@ -26,8 +26,8 @@ int main() {
     /* SAIDA
     RESULTADO DAS OPERACOES*/
     cout << "A soma dos numeros e: " << soma; 
-    cout << "A subtracao dos numeros e: " << subtracao; 
-    cout << "A multiplicacao dos numeros e: " << mult; 
-    cout << "A divisao dos numeros e: " << divi; 
+    cout << "\nA subtracao dos numeros e: " << subtracao; 
+    cout << "\nA multiplicacao dos numeros e: " << mult; 
+    cout << "\nA divisao dos numeros e: " << divi; 
 
 }

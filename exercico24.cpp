@@ -9,7 +9,7 @@ int main() {
 
     medidaPolegadas = medidaPes * 12;
     medidaJardas = medidaPes / 3;
-    medidaMilhas = medidaJardas * 1760 * 3;
+    medidaMilhas = medidaJardas / 1760;
 
     cout << "A mesma medidada em polegadas e igual a: " << medidaPolegadas ;
     cout << "A mesma medidada em jardas e igual a: " << medidaJardas ;
